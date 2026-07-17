@@ -31,18 +31,6 @@ I build product-oriented software with a focus on clean interfaces, local-first 
 
 ---
 
-## Featured Projects
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [Hua](https://github.com/LeYu-awa/Hua) | Local-first desktop app for inspiration capture, long-form writing, and Live2D-style writing companionship | Tauri 2 + React + TypeScript |
-| [Ai2d](https://github.com/LeYu-awa/Ai2d) | Layered 2D character animation compiler and Canvas runtime | TypeScript + Canvas |
-| [travel](https://github.com/LeYu-awa/travel) | Multi-platform travel workspace covering mini apps, mobile, and admin-side interfaces | Taro + UniApp + Vue |
-
----
-
----
-
 ## What I Use
 
 <div align="left">
