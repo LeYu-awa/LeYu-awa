@@ -41,18 +41,11 @@ I build product-oriented software with a focus on clean interfaces, local-first 
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LeYu-awa&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeYu-awa&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
 ---
 
 ## What I Use
 
-<div align="center">
+<div align="left">
   <img src="https://camo.githubusercontent.com/086f8278e5b5af76bc8d2773f026b053b3959475ea735dfc2fbdde4316e3a3c7/68747470733a2f2f736b696c6c2d69636f6e732d76322e76657263656c2e6170702f6170692f69636f6e733f693d76696d2c7a65642c7673636f64652c6c61746578" alt="Editors" />
   <br />
   <img src="https://camo.githubusercontent.com/5121ac3e7fade360dcc93c95e8ba694bdf5d286f39ebf59a957e70f3e83498bf/68747470733a2f2f736b696c6c2d69636f6e732d76322e76657263656c2e6170702f6170692f69636f6e733f693d6769746875622c6769742c636f6465626572672c7373682c676974687562616374696f6e73" alt="Version Control" />
