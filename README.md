@@ -1,9 +1,4 @@
 <div align="center">
-  
-# 你好，我是 乐钰 | LeYu
-
-**安徽工业大学 · 计算机科学与技术**
-
 [![Profile Views](https://visitor-badge.glitch.me/badge?page_id=LeYu-awa.LeYu-awa)](https://github.com/LeYu-awa)
 
 </div>
