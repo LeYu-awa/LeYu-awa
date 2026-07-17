@@ -24,15 +24,3 @@ jobs:
 
           # Contribution calendar
           plugin_isocalendar: yes
-
-          # Recent activity
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_filter: issue, pr, release, fork, review
-
-          # Starred projects
-          plugin_starlists: yes
-          plugin_starlists_languages: yes
-
-          # Display order
-          config_order: isocalendar, languages, activity, starlists
