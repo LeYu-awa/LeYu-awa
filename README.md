@@ -2,15 +2,6 @@
 
 # LeYu-awa
 
-<p>
-  <img src="https://img.shields.io/badge/Focus-Frontend%20Engineering-7C3AED?style=flat-square" alt="Frontend Engineering" />
-  <img src="https://img.shields.io/badge/Desktop-Tauri%20%2B%20Rust-2563EB?style=flat-square" alt="Tauri and Rust" />
-  <img src="https://img.shields.io/badge/AI-Agent%20Workflows-059669?style=flat-square" alt="AI Agent Workflows" />
-  <img src="https://komarev.com/ghpvc/?username=LeYu-awa&label=Views&color=7C3AED&style=flat-square" alt="Profile Views" />
-</p>
-
-</div>
-
 ---
 
 ## Profile
