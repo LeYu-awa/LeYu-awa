@@ -31,6 +31,10 @@ I build product-oriented software with a focus on clean interfaces, local-first 
 
 ---
 
+![Metrics](./metrics.svg)
+
+---
+
 ## What I Use
 
 <div align="left">
