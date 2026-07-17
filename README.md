@@ -2,14 +2,6 @@
 
 # LeYu-awa
 
-### Building creative desktop apps, AI-assisted tools, and polished web experiences.
-
-<p>
-  <a href="https://github.com/LeYu-awa/Hua"><strong>Hua</strong></a> ·
-  <a href="https://github.com/LeYu-awa/Ai2d"><strong>Ai2d</strong></a> ·
-  <a href="https://github.com/LeYu-awa/travel"><strong>Travel Workspace</strong></a>
-</p>
-
 <p>
   <img src="https://img.shields.io/badge/Focus-Frontend%20Engineering-7C3AED?style=flat-square" alt="Frontend Engineering" />
   <img src="https://img.shields.io/badge/Desktop-Tauri%20%2B%20Rust-2563EB?style=flat-square" alt="Tauri and Rust" />
