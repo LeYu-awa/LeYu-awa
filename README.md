@@ -1,30 +1,43 @@
 <div align="center">
 
-# 你好，我是 乐钰 | LeYu
+# LeYu-awa
 
-**安徽工业大学 · 计算机科学与技术**
+### Building creative desktop apps, AI-assisted tools, and polished web experiences.
 
-<img src="https://komarev.com/ghpvc/?username=LeYu-awa&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+<p>
+  <a href="https://github.com/LeYu-awa/Hua"><strong>Hua</strong></a> ·
+  <a href="https://github.com/LeYu-awa/Ai2d"><strong>Ai2d</strong></a> ·
+  <a href="https://github.com/LeYu-awa/travel"><strong>Travel Workspace</strong></a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Focus-Frontend%20Engineering-7C3AED?style=flat-square" alt="Frontend Engineering" />
+  <img src="https://img.shields.io/badge/Desktop-Tauri%20%2B%20Rust-2563EB?style=flat-square" alt="Tauri and Rust" />
+  <img src="https://img.shields.io/badge/AI-Agent%20Workflows-059669?style=flat-square" alt="AI Agent Workflows" />
+  <img src="https://komarev.com/ghpvc/?username=LeYu-awa&label=Views&color=7C3AED&style=flat-square" alt="Profile Views" />
+</p>
 
 </div>
 
 ---
 
-## About Me
+## Profile
 
-```yaml
-name: 乐钰 (LeYu)
-location: 中国
-role: 学生
-university: 安徽工业大学
-major: 计算机科学与技术
-focus:
-  - 前端开发
-  - Rust / Tauri 桌面应用
-  - AI / 动画工具
-  - LLM / 模型训练
-  - Agent / 自动体开发
-```
+I build product-oriented software with a focus on clean interfaces, local-first desktop experiences, and AI-assisted creation tools. My work mainly explores the intersection of frontend engineering, Tauri/Rust desktop apps, Canvas animation, and agent-style automation.
+
+- Currently focused on **Tauri 2 + React + TypeScript** desktop products.
+- Interested in **AI-assisted writing, 2D character animation, and developer tooling**.
+- Prefer building small but complete products with polished UI and practical workflows.
+
+---
+
+## Featured Projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [Hua](https://github.com/LeYu-awa/Hua) | Local-first desktop app for inspiration capture, long-form writing, and Live2D-style writing companionship | Tauri 2 + React + TypeScript |
+| [Ai2d](https://github.com/LeYu-awa/Ai2d) | Layered 2D character animation compiler and Canvas runtime | TypeScript + Canvas |
+| [travel](https://github.com/LeYu-awa/travel) | Multi-platform travel workspace covering mini apps, mobile, and admin-side interfaces | Taro + UniApp + Vue |
 
 ---
 
@@ -59,18 +72,8 @@ focus:
 
 ---
 
-## Projects
-
-| 项目 | 描述 | 技术栈 |
-| --- | --- | --- |
-| [Hua](https://github.com/LeYu-awa/Hua) | 灵感记录、长文创作与二次元写作陪伴桌面应用 | Tauri 2 + React + TypeScript |
-| [travel](https://github.com/LeYu-awa/travel) | 旅游出行场景多端项目工作空间 | Taro + UniApp + Vue |
-| [Ai2d](https://github.com/LeYu-awa/Ai2d) | 分层 2D 角色动画编译与 Canvas 运行时 | TypeScript + Canvas |
-
----
-
 <div align="center">
 
-From [LeYu-awa](https://github.com/LeYu-awa)
+<strong>Designing useful tools. Shipping complete experiences.</strong>
 
 </div>
