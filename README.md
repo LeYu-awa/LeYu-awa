@@ -1,10 +1,4 @@
-<div align="center">
-[![Profile Views](https://visitor-badge.glitch.me/badge?page_id=LeYu-awa.LeYu-awa)](https://github.com/LeYu-awa)
-
-</div>
-
 ---
-
 ## About Me
 
 ```yaml
